@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/ss",       "destination": "/99",       "permanent": true     }, {"source": "/",       "destination": "/344",       "permanent": true     }, {"source": "/3444",       "destination": "/jassi",       "permanent": true     }
+  "redirects": [{"source": "/ss",       "destination": "/99",       "permanent": true     }
 ],
   "rewrites": [
     {
