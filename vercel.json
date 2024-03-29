@@ -1,8 +1,11 @@
 {
-  "routes": [
+  "redirects": [
+],
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "https://wedwed.dorik.io/$1"
- }
+      "source": "(/.*)",
+      "destination": "https://wfwefwe.com/$1"
+    }
   ]
 }
+    
